@@ -1,16 +1,25 @@
-## Hi there 👋
+Erika Reyes
 
-<!--
-**ereyes25-ui/ereyes25-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollo de Productos Digitales · Diseño de Interfaces · Soluciones Web
 
-Here are some ideas to get you started:
+Me interesa crear productos digitales que combinen diseño, funcionalidad y experiencias intuitivas para resolver problemas reales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente
+
+Desarrollando Nexora.
+Fortaleciendo mis conocimientos en JavaScript.
+Aprendiendo diseño de interfaces y experiencia de usuario.
+Construyendo proyectos enfocados en soluciones reales.
+
+Proyectos destacados
+
+Nexora
+Portafolio
+digital-cv
+Próximamente más proyectos.
+
+Contacto
+
+LinkedIn
+Portafolio
+Correo electrónico
